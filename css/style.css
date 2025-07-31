@@ -1,0 +1,23 @@
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: beige;
+  text-align: center;
+}
+
+p,
+img {
+  margin-bottom: 30px;
+}
+
+a {
+  padding: 20px;
+}
+
+.mail-link {
+  padding: 0;
+}
